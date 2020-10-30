@@ -1,0 +1,21 @@
+{
+    "name": "cyberpunk-2077",
+    "displayName": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 color theme for VSCODE",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cyberpunk 2077",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cyberpunk 2077-color-theme.json"
+            }
+        ]
+    }
+}
