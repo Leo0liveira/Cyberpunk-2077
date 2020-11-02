@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension "cyberpunk-2077"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Cyberpunk 2077
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Cyberpunk 2077 theme for VS code
+![Become A VS Code SAMURAI](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SAMURAI-yellow)
+Let me teach uoy everything there is to know about VS Code and make you a VS Code Samurai too!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Thanks for checking out my VS code theme. I Hope you enjoy it! 
 
-**Enjoy!**
+## Instalation
+
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for cyberpunk2077 theme
+3. Click Install
+4. Click Reload to reload your editor
+5. Select the Manage Cog (bottom left) > Color Theme > cyberpunk 2077 theme
+6. ⭐⭐⭐⭐⭐ Rate five-stars!
+
+                                    **Enjoy!**

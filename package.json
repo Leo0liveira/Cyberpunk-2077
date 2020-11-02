@@ -2,12 +2,30 @@
     "name": "cyberpunk-2077",
     "displayName": "Cyberpunk 2077",
     "description": "Cyberpunk 2077 color theme for VSCODE",
+    "author": {
+        "name": "Leonardo Oliveira"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Leo0liveira/Cyberpunk-2077"
+    },
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "icon":"images/icon/cp2077",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "cyberpunkTheme",
+        "Cyberpunk 2077",
+        "Cyberpunk 2077 theme",
+        "Synthwave cyberpunk theme"
     ],
     "contributes": {
         "themes": [
